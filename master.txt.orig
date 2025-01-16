@@ -3,7 +3,9 @@
 
 <line added by master branch>
 
+<<<<<<< HEAD
 <line added by branch A>
+=======
 
 <line added by branch B>
-
+>>>>>>> B
